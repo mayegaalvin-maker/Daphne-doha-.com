@@ -1,0 +1,74 @@
+{
+  "items": [],
+  "employees": [
+    {
+      "id": "emp-1",
+      "fullName": "Daphine Doha",
+      "phone": "+256787355533",
+      "username": "daphine.doha",
+      "admissionNumber": "DDS/ADM/2026/001",
+      "staffCode": "DD-001",
+      "role": "owner",
+      "status": "active",
+      "registeredAt": "2026-01-10",
+      "totalUploads": 0,
+      "pin": "2026",
+      "lastLogin": "Ready for first login"
+    },
+    {
+      "id": "emp-2",
+      "fullName": "Sarah Nakato",
+      "phone": "+256785891762",
+      "username": "sarah.nakato",
+      "admissionNumber": "DDS/EMP/2026/002",
+      "staffCode": "STAFF-102",
+      "role": "inventory_lead",
+      "status": "active",
+      "registeredAt": "2026-03-01",
+      "totalUploads": 0,
+      "pin": "1234",
+      "lastLogin": "Ready for first login"
+    },
+    {
+      "id": "emp-3",
+      "fullName": "Prossy Namubiru",
+      "phone": "+256701449811",
+      "username": "prossy.namubiru",
+      "admissionNumber": "DDS/EMP/2026/003",
+      "staffCode": "STAFF-103",
+      "role": "floor_assistant",
+      "status": "active",
+      "registeredAt": "2026-05-15",
+      "totalUploads": 0,
+      "pin": "5678",
+      "lastLogin": "Ready for first login"
+    }
+  ],
+  "config": {
+    "storeName": "Daphine Doha Store",
+    "tagline": "Kampala's Premier Curated Thrift & Daily Women's Fashion",
+    "location": "Pioneer Mall, Kampala, Uganda",
+    "shopNumber": "Shop PF 32/37",
+    "primaryWhatsApp": "+256787355533",
+    "secondaryWhatsApp": "+256785891762",
+    "phoneCall": "+256787355533",
+    "instagram": "https://instagram.com/daphinedohastore",
+    "tiktok": "https://tiktok.com/@daphinedoha",
+    "announcement": "🔥 WELCOME TO DAPHINE DOHA STORE! Pioneer Mall PF 32/37 Kampala. Fresh bale drops daily! Order directly on WhatsApp.",
+    "currency": "UGX",
+    "deliveryNotesKampala": "Same-day Boda delivery anywhere in Kampala (UGX 5,000 - 10,000)",
+    "deliveryNotesUpcountry": "Safe courier via regional coaches across Uganda (UGX 10,000 - 15,000)",
+    "workingHours": "Mon - Sat: 8:30 AM - 7:30 PM | Sun: 11:00 AM - 6:00 PM"
+  },
+  "activityLogs": [
+    {
+      "id": "log-init",
+      "timestamp": "Just now",
+      "staffName": "System",
+      "staffCode": "SYS",
+      "action": "edit_details",
+      "details": "Store inventory reset to empty. Ready for Daphine and employees to upload real stock.",
+      "itemCode": "SYSTEM"
+    }
+  ]
+}

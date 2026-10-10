@@ -1,0 +1,8 @@
+{
+  "name": "Daphine Doha Store - Kampala Thrift & Fashion Boutique",
+  "description": "Uganda's premier women's thrift and fashion boutique at Pioneer Mall, Kampala. Browse daily Grade-A second-hand arrivals, tops from UGX 10k, dresses, and order directly on WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
